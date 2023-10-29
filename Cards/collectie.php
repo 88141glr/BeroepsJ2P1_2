@@ -22,7 +22,7 @@ session_start();
 
         <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
           <li><a href="../index.php" class="nav-link px-2 text-white">Home</a></li>
-          <li><a href="../AboutMe/AboutMe.php" class="nav-link px-2 text-white">Over Mij</a></li>
+          <li><a href="../AboutMe/AboutMe.php" class="nav-link px-2 text-white">Info</a></li>
           <li><a href="#" class="nav-link px-2 text-secondary">Cards</a></li>
         </ul>
 
